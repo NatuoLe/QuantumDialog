@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6062133671fd67143bb80f9cbe2ff297
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 14914
+  packageName: NodeCanvas
+  packageVersion: 3.3.3
+  assetPath: Assets/ParadoxNotion/NodeCanvas/_DeprecatedFiles/Legacy_EnterExitState.cs
+  uploadId: 754282

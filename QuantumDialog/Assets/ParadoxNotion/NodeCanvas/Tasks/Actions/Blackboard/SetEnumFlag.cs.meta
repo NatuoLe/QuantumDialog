@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2cb60d6a9aa366d4f94c18d5e0d36b6c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 14914
+  packageName: NodeCanvas
+  packageVersion: 3.3.3
+  assetPath: Assets/ParadoxNotion/NodeCanvas/Tasks/Actions/Blackboard/SetEnumFlag.cs
+  uploadId: 754282

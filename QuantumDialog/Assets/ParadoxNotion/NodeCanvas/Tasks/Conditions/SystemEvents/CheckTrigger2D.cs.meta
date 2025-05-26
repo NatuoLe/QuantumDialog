@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d9f8ef35cf4d8294eab04225beb6c878
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 14914
+  packageName: NodeCanvas
+  packageVersion: 3.3.3
+  assetPath: Assets/ParadoxNotion/NodeCanvas/Tasks/Conditions/SystemEvents/CheckTrigger2D.cs
+  uploadId: 754282

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c95a158298e92ad45b61ba4e6ee389bd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 14914
+  packageName: NodeCanvas
+  packageVersion: 3.3.3
+  assetPath: Assets/ParadoxNotion/NodeCanvas/Modules/DialogueTrees/Editor/GraphLocalization.cs
+  uploadId: 754282

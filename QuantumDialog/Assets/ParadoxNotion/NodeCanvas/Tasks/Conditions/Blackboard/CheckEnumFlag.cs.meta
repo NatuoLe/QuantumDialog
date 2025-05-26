@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 74d9a3ba0701dd34e856bb15db85427b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 14914
+  packageName: NodeCanvas
+  packageVersion: 3.3.3
+  assetPath: Assets/ParadoxNotion/NodeCanvas/Tasks/Conditions/Blackboard/CheckEnumFlag.cs
+  uploadId: 754282

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 08a365a29ed52284bae6255b4952440f
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 14914
+  packageName: NodeCanvas
+  packageVersion: 3.3.3
+  assetPath: Assets/ParadoxNotion/NodeCanvas/Tasks/Actions/Physics/GetOverlapSphereObjects.cs
+  uploadId: 754282

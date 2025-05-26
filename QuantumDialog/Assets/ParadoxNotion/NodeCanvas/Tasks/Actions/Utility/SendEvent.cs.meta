@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 990daf97a34481644b9a67d3ce07e2a1
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 14914
+  packageName: NodeCanvas
+  packageVersion: 3.3.3
+  assetPath: Assets/ParadoxNotion/NodeCanvas/Tasks/Actions/Utility/SendEvent.cs
+  uploadId: 754282

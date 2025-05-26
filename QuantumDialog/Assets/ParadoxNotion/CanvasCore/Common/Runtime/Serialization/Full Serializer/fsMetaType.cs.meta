@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: b6055c8d075412e4ea6162755a736ab1
+timeCreated: 1458897573
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 14914
+  packageName: NodeCanvas
+  packageVersion: 3.3.3
+  assetPath: Assets/ParadoxNotion/CanvasCore/Common/Runtime/Serialization/Full Serializer/fsMetaType.cs
+  uploadId: 754282

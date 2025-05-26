@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c32e4b851ebd8fa4ea0645b99be1cf97
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: b5eeec78a0081094cb8dfeb83808d762, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 14914
+  packageName: NodeCanvas
+  packageVersion: 3.3.3
+  assetPath: Assets/ParadoxNotion/NodeCanvas/Modules/DialogueTrees/DialogueTreeController.cs
+  uploadId: 754282

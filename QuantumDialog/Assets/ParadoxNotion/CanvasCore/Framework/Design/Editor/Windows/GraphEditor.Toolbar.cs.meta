@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 4c6950c3a61f05749bda6d3e3e75012d
+timeCreated: 1511249310
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 14914
+  packageName: NodeCanvas
+  packageVersion: 3.3.3
+  assetPath: Assets/ParadoxNotion/CanvasCore/Framework/Design/Editor/Windows/GraphEditor.Toolbar.cs
+  uploadId: 754282

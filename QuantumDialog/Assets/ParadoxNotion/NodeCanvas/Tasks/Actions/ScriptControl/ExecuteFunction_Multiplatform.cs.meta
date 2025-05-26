@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: ee0d1b13f05b51b4aad2fad57bb891e0
+timeCreated: 1430479220
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 14914
+  packageName: NodeCanvas
+  packageVersion: 3.3.3
+  assetPath: Assets/ParadoxNotion/NodeCanvas/Tasks/Actions/ScriptControl/ExecuteFunction_Multiplatform.cs
+  uploadId: 754282

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 7516e8832e25203438fd50fa07cd847c
+timeCreated: 1426570396
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 14914
+  packageName: NodeCanvas
+  packageVersion: 3.3.3
+  assetPath: Assets/ParadoxNotion/NodeCanvas/Tasks/Actions/Movement/Pathfinding/Wander.cs
+  uploadId: 754282

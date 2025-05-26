@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0211ec2d060629b49a3fce49b71fcebb
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 14914
+  packageName: NodeCanvas
+  packageVersion: 3.3.3
+  assetPath: Assets/ParadoxNotion/CanvasCore/Common/Runtime/Serialization/SerializedMethodInfo.cs
+  uploadId: 754282

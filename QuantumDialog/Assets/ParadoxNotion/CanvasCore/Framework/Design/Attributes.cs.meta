@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 1b7c164f2e87676489ab445cbd7a39e4
+timeCreated: 1509594799
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 14914
+  packageName: NodeCanvas
+  packageVersion: 3.3.3
+  assetPath: Assets/ParadoxNotion/CanvasCore/Framework/Design/Attributes.cs
+  uploadId: 754282

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a147fdacb6351d44f82fa2590c99cb81
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 14914
+  packageName: NodeCanvas
+  packageVersion: 3.3.3
+  assetPath: Assets/ParadoxNotion/CanvasCore/Framework/Runtime/ReflectionWrappers/ReflectedAction.cs
+  uploadId: 754282

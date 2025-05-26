@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 01a3a97a8a25c2441aa667aa238c0486
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 14914
+  packageName: NodeCanvas
+  packageVersion: 3.3.3
+  assetPath: Assets/ParadoxNotion/NodeCanvas/Modules/DialogueTrees/Nodes/ConditionNode.cs
+  uploadId: 754282

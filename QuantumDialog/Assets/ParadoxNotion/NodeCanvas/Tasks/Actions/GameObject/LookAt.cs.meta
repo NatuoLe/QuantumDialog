@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 50b2f3f7e383d0c41b18b2f57b9ce81a
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 14914
+  packageName: NodeCanvas
+  packageVersion: 3.3.3
+  assetPath: Assets/ParadoxNotion/NodeCanvas/Tasks/Actions/GameObject/LookAt.cs
+  uploadId: 754282

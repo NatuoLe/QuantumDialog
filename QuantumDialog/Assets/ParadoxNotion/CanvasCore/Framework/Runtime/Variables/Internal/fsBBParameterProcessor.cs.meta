@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 06577ee7a45212744a32fdb6920795b0
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 14914
+  packageName: NodeCanvas
+  packageVersion: 3.3.3
+  assetPath: Assets/ParadoxNotion/CanvasCore/Framework/Runtime/Variables/Internal/fsBBParameterProcessor.cs
+  uploadId: 754282

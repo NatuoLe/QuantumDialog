@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 8f1b46c6e9f5f2a4cb0ec4c063dbfd18
+labels:
+- Graph
+- Node
+- AI
+- visualscripting
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: b5eeec78a0081094cb8dfeb83808d762, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 14914
+  packageName: NodeCanvas
+  packageVersion: 3.3.3
+  assetPath: Assets/ParadoxNotion/CanvasCore/Framework/Runtime/Graphs/GraphOwner.cs
+  uploadId: 754282

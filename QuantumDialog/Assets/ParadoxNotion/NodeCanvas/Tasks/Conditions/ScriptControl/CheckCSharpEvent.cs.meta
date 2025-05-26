@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e6c7c29b64d410d49a2f2b6285d02827
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 14914
+  packageName: NodeCanvas
+  packageVersion: 3.3.3
+  assetPath: Assets/ParadoxNotion/NodeCanvas/Tasks/Conditions/ScriptControl/CheckCSharpEvent.cs
+  uploadId: 754282

@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 4a7dbb6bbdf4ffb46ab7dd87ba8191e7
+labels:
+- AI
+- visualscripting
+- FSM
+- state
+- flow
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: b5eeec78a0081094cb8dfeb83808d762, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 14914
+  packageName: NodeCanvas
+  packageVersion: 3.3.3
+  assetPath: Assets/ParadoxNotion/NodeCanvas/Modules/StateMachines/FSMOwner.cs
+  uploadId: 754282

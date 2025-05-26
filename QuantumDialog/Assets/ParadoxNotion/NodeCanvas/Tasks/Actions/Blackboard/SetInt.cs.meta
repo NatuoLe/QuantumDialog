@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7e7022659287e9947b7288e9b9b19906
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 14914
+  packageName: NodeCanvas
+  packageVersion: 3.3.3
+  assetPath: Assets/ParadoxNotion/NodeCanvas/Tasks/Actions/Blackboard/SetInt.cs
+  uploadId: 754282

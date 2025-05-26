@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9e07c52f3f651ff4c838b8ab8344b14e
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 14914
+  packageName: NodeCanvas
+  packageVersion: 3.3.3
+  assetPath: Assets/ParadoxNotion/NodeCanvas/Tasks/Actions/Physics/GetLinecastInfo2DAll.cs
+  uploadId: 754282

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 77a4b51944584ae429faf6c94c84bc6c
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 14914
+  packageName: NodeCanvas
+  packageVersion: 3.3.3
+  assetPath: Assets/ParadoxNotion/NodeCanvas/Modules/BehaviourTrees/Nodes/Decorators/ConditionalEvaluator.cs
+  uploadId: 754282

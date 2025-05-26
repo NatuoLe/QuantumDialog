@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ca961a4d1f187b24aa66cbd4934a670a
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 14914
+  packageName: NodeCanvas
+  packageVersion: 3.3.3
+  assetPath: Assets/ParadoxNotion/CanvasCore/Framework/Design/Editor/Inspectors/BlackboardInspector.cs
+  uploadId: 754282

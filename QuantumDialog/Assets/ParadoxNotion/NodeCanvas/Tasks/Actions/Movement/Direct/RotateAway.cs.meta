@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3bc2bfd412ae3ff4a9780db864fd127d
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 14914
+  packageName: NodeCanvas
+  packageVersion: 3.3.3
+  assetPath: Assets/ParadoxNotion/NodeCanvas/Tasks/Actions/Movement/Direct/RotateAway.cs
+  uploadId: 754282

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cb1786bed55fb7344bc37169af0b0f79
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 14914
+  packageName: NodeCanvas
+  packageVersion: 3.3.3
+  assetPath: Assets/ParadoxNotion/NodeCanvas/Tasks/Actions/GameObject/FindClosestWithTag.cs
+  uploadId: 754282

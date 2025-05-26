@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2289059ddf1745b4d80a0f184af99d6b
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 14914
+  packageName: NodeCanvas
+  packageVersion: 3.3.3
+  assetPath: Assets/ParadoxNotion/NodeCanvas/NodeCanvas.asmdef
+  uploadId: 754282

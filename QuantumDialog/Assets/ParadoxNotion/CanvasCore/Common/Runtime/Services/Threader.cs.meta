@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 8a28adfe7475c3b47b11daa58f813a0b
+timeCreated: 1509145860
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 14914
+  packageName: NodeCanvas
+  packageVersion: 3.3.3
+  assetPath: Assets/ParadoxNotion/CanvasCore/Common/Runtime/Services/Threader.cs
+  uploadId: 754282

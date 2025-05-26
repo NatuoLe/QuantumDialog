@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 751d266ccd1ee9b4482544063fcded3e
+timeCreated: 1541326337
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 14914
+  packageName: NodeCanvas
+  packageVersion: 3.3.3
+  assetPath: Assets/ParadoxNotion/CanvasCore/Framework/Design/Editor/Resources/StyleSheet/StyleSheetDark.asset
+  uploadId: 754282

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b14eff6fa54e645469e5f0902dc1e8f9
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 14914
+  packageName: NodeCanvas
+  packageVersion: 3.3.3
+  assetPath: Assets/ParadoxNotion/NodeCanvas/Modules/StateMachines/Nodes/OnFSMEnter.cs
+  uploadId: 754282

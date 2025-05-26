@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: c00e5ee9fdcb1cf4fa3e604852fdeed4
+TextScriptImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 14914
+  packageName: NodeCanvas
+  packageVersion: 3.3.3
+  assetPath: Assets/ParadoxNotion/CanvasCore/Common/Runtime/Serialization/Full Serializer/License
+    (FullSerializer).txt
+  uploadId: 754282

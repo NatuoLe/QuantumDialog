@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e8529107908563041be3c122dca2754e
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 14914
+  packageName: NodeCanvas
+  packageVersion: 3.3.3
+  assetPath: Assets/ParadoxNotion/CanvasCore/Common/Runtime/Serialization/fsRecoveryProcessor.cs
+  uploadId: 754282

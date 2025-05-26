@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c613b340928dbd74fac60067655b39ce
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 14914
+  packageName: NodeCanvas
+  packageVersion: 3.3.3
+  assetPath: Assets/ParadoxNotion/NodeCanvas/Tasks/Actions/GameObject/FindObjectsOfType.cs
+  uploadId: 754282

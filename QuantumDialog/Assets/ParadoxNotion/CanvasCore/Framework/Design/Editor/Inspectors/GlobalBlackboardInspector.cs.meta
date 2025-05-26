@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9e661f067321a0e41b08138218f92c00
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 14914
+  packageName: NodeCanvas
+  packageVersion: 3.3.3
+  assetPath: Assets/ParadoxNotion/CanvasCore/Framework/Design/Editor/Inspectors/GlobalBlackboardInspector.cs
+  uploadId: 754282

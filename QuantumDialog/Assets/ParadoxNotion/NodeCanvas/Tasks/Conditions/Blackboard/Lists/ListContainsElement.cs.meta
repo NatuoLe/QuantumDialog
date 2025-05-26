@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8f0b93561b5e9f74283301345e027722
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 14914
+  packageName: NodeCanvas
+  packageVersion: 3.3.3
+  assetPath: Assets/ParadoxNotion/NodeCanvas/Tasks/Conditions/Blackboard/Lists/ListContainsElement.cs
+  uploadId: 754282

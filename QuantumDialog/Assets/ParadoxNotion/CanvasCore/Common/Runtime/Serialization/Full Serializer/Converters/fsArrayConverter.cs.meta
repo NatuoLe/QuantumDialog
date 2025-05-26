@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 4fd95ce87e49ad9408a03e4e9c0121fe
+timeCreated: 1458897573
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 14914
+  packageName: NodeCanvas
+  packageVersion: 3.3.3
+  assetPath: Assets/ParadoxNotion/CanvasCore/Common/Runtime/Serialization/Full Serializer/Converters/fsArrayConverter.cs
+  uploadId: 754282

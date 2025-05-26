@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8a1244efd86d1a143b4a6714437bef2a
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 14914
+  packageName: NodeCanvas
+  packageVersion: 3.3.3
+  assetPath: Assets/ParadoxNotion/NodeCanvas/Tasks/Actions/ScriptControl/Standalone/SetProperty.cs
+  uploadId: 754282

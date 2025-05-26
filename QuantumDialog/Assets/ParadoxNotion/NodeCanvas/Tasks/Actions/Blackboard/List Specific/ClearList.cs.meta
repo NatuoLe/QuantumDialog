@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d84431e6405163d45abc8dbfa6357145
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 14914
+  packageName: NodeCanvas
+  packageVersion: 3.3.3
+  assetPath: Assets/ParadoxNotion/NodeCanvas/Tasks/Actions/Blackboard/List Specific/ClearList.cs
+  uploadId: 754282

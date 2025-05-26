@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 856f5f12f2d3c4541a8a36720cb3bdcf
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 14914
+  packageName: NodeCanvas
+  packageVersion: 3.3.3
+  assetPath: Assets/ParadoxNotion/NodeCanvas/Modules/DialogueTrees/Nodes/ActionNode.cs
+  uploadId: 754282

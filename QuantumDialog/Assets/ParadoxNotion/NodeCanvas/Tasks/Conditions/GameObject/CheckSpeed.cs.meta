@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 9f9579cb895fe914f91b86e4d967dc8e
+timeCreated: 1441577646
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 14914
+  packageName: NodeCanvas
+  packageVersion: 3.3.3
+  assetPath: Assets/ParadoxNotion/NodeCanvas/Tasks/Conditions/GameObject/CheckSpeed.cs
+  uploadId: 754282

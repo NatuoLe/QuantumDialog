@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 5ce798a6776e2444ab1be31bb0fd9703
+timeCreated: 1537847297
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 14914
+  packageName: NodeCanvas
+  packageVersion: 3.3.3
+  assetPath: Assets/ParadoxNotion/CanvasCore/Common/Runtime/HierarchyTree.cs
+  uploadId: 754282
