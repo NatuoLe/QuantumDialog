@@ -1,2 +1,2 @@
-# Unity-Visual-Luban-Dialogue
+# QuantumDialog
 Luban +NodeCanvas 可视化对话方案
